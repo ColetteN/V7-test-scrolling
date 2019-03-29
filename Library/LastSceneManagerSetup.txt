@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/AppScreens/Health.unity
+- path: Assets/AppScreens/TestHome.unity
   isLoaded: 1
   isActive: 1
