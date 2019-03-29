@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/AppScreens/TestHome.unity
+- path: Assets/AppScreens/Phrases.unity
   isLoaded: 1
   isActive: 1

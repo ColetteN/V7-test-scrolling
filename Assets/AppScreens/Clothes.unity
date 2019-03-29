@@ -2791,8 +2791,8 @@ RectTransform:
   - {fileID: 759880773}
   - {fileID: 1752035995}
   - {fileID: 1572417642}
-  - {fileID: 897006481}
   - {fileID: 687224037}
+  - {fileID: 897006481}
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -3203,7 +3203,7 @@ RectTransform:
   m_LocalScale: {x: 2.0867147, y: 2.0867147, z: 2.0867147}
   m_Children: []
   m_Father: {fileID: 675491906}
-  m_RootOrder: 8
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
@@ -3230,9 +3230,9 @@ MonoBehaviour:
   m_Transition: 1
   m_Colors:
     m_NormalColor: {r: 0.49411765, g: 0.31764707, b: 0.65882355, a: 1}
-    m_HighlightedColor: {r: 0.7701354, g: 0.61089355, b: 0.9056604, a: 1}
+    m_HighlightedColor: {r: 0.49411765, g: 0.31764707, b: 0.65882355, a: 1}
     m_PressedColor: {r: 0.7701354, g: 0.61089355, b: 0.9056604, a: 1}
-    m_DisabledColor: {r: 0.7568628, g: 0.7568628, b: 0.7568628, a: 1}
+    m_DisabledColor: {r: 0.7701354, g: 0.61089355, b: 0.9056604, a: 1}
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
