@@ -196,7 +196,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: TestHome
+          m_StringArgument: Home
           m_BoolArgument: 0
         m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
@@ -713,8 +713,8 @@ RectTransform:
   - {fileID: 468305150}
   - {fileID: 24408558}
   - {fileID: 82606310}
-  - {fileID: 1071525958}
   - {fileID: 780102552}
+  - {fileID: 1071525958}
   - {fileID: 928734392}
   m_Father: {fileID: 0}
   m_RootOrder: 1
@@ -1323,7 +1323,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: TestHome
+          m_StringArgument: Home
           m_BoolArgument: 0
         m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
@@ -1882,7 +1882,7 @@ Transform:
   m_Children:
   - {fileID: 1936745399}
   m_Father: {fileID: 206790166}
-  m_RootOrder: 7
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &913784239
 Prefab:
@@ -2484,7 +2484,7 @@ RectTransform:
   - {fileID: 1189774597}
   - {fileID: 197477467}
   m_Father: {fileID: 206790166}
-  m_RootOrder: 6
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
