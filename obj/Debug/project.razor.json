@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\ColetteNash\\Desktop\\FYP-test-scrolling\\V7-test-scrolling\\Assembly-CSharp-firstpass.csproj",
+  "TargetFramework": "v3.5",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
