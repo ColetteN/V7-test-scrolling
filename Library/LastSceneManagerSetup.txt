@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/AppScreens/Food.unity
+- path: Assets/AppScreens/Family.unity
   isLoaded: 1
   isActive: 1

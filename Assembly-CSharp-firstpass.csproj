@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{E349B38B-E028-418C-FEE2-6E812554132E}</ProjectGuid>
+    <ProjectGuid>{59DB6CE7-EF27-343F-E3AB-EB6BEC4C747C}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-firstpass</AssemblyName>
@@ -55,16 +55,16 @@
   <ItemGroup>
      <Compile Include="Assets\Plugins\TTSManager.cs" />
  <Reference Include="UnityEditor.StandardEvents">
- <HintPath>C:/Users/ColetteNash/Desktop/FYP-test-scrolling/V7-test-scrolling/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ <HintPath>C:/Users/ColetteNash/Desktop/FYP-Scroll-all-pages/V8-allpages-scrolling/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Users/ColetteNash/Desktop/FYP-test-scrolling/V7-test-scrolling/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>C:/Users/ColetteNash/Desktop/FYP-Scroll-all-pages/V8-allpages-scrolling/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>C:/Users/ColetteNash/Desktop/FYP-test-scrolling/V7-test-scrolling/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>C:/Users/ColetteNash/Desktop/FYP-Scroll-all-pages/V8-allpages-scrolling/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Users/ColetteNash/Desktop/FYP-test-scrolling/V7-test-scrolling/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>C:/Users/ColetteNash/Desktop/FYP-Scroll-all-pages/V8-allpages-scrolling/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2018.2.11f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>

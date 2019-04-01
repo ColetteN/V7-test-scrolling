@@ -5,11 +5,8 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/AppScreens/TestHome.unity
+    path: Assets/AppScreens/Home.unity
     guid: e6f70a80f1be1d0469d111072f0a6422
   - enabled: 1
     path: Assets/AppScreens/Activities.unity
@@ -32,21 +29,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/AppScreens/Health.unity
     guid: 294fedc9da6a65a4dac75ccff2e39fa5
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
   - enabled: 1
     path: Assets/AppScreens/MyThings.unity
     guid: 3c1bd61819f41954a9061a141a30be57
-  - enabled: 0
-    path: Assets/AppScreens/Phrases.unity
-    guid: 32f84474e2648474d8eff6eabe39d96a
   - enabled: 1
     path: Assets/AppScreens/Treats.unity
     guid: 35da3ab71ea52714780650185a1411e0
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
