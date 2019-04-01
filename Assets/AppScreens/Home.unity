@@ -892,6 +892,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 437907277}
+  - component: {fileID: 437907278}
   m_Layer: 5
   m_Name: MainGridSpace
   m_TagString: Untagged
@@ -926,6 +927,18 @@ RectTransform:
   m_AnchoredPosition: {x: 96, y: 198}
   m_SizeDelta: {x: 715.9, y: 528}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &437907278
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 437907276}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d7563aba925a574b966c82c3e58f8fb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _inputText: 
 --- !u!1 &460396640
 GameObject:
   m_ObjectHideFlags: 0

@@ -1,7 +1,8 @@
 Android
 PlayerPath?
-C:/Users/ColetteNash/Desktop/FinalTest1.apk
+C:/Users/ColetteNash/Desktop/FinalTest3.apk
 SceneListBegin?
+Assets/AppScreens/Onboarding.unity
 Assets/AppScreens/Home.unity
 Assets/AppScreens/Activities.unity
 Assets/AppScreens/Clothes.unity
