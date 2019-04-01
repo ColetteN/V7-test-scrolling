@@ -22,7 +22,7 @@ GameObject:
   - component: {fileID: 222231301698809520}
   - component: {fileID: 114607380474900458}
   m_Layer: 5
-  m_Name: IWantToGo 1
+  m_Name: DontWantToVisit
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -173,7 +173,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: '  I dont want'
+  m_Text: Dont want
 --- !u!222 &222231301698809520
 CanvasRenderer:
   m_ObjectHideFlags: 1

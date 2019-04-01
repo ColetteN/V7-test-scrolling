@@ -509,7 +509,7 @@ GameObject:
   - component: {fileID: 168612133}
   - component: {fileID: 168612132}
   m_Layer: 5
-  m_Name: GridBorder6 (1)
+  m_Name: GridBorder8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2731,7 +2731,7 @@ Prefab:
     - target: {fileID: 224568099930665910, guid: 566cf354502c6594da5352204a1ecb5d,
         type: 2}
       propertyPath: m_AnchoredPosition.x
-      value: 2.4329376
+      value: 2.4329224
       objectReference: {fileID: 0}
     - target: {fileID: 224568099930665910, guid: 566cf354502c6594da5352204a1ecb5d,
         type: 2}
@@ -2795,7 +2795,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1780707853466960, guid: 566cf354502c6594da5352204a1ecb5d, type: 2}
       propertyPath: m_Name
-      value: MainGridSpace[6]
+      value: MainGridSpace[7]
       objectReference: {fileID: 0}
     - target: {fileID: 114071776316616298, guid: 566cf354502c6594da5352204a1ecb5d,
         type: 2}
@@ -3689,7 +3689,7 @@ GameObject:
   - component: {fileID: 1123443148}
   - component: {fileID: 1123443147}
   m_Layer: 5
-  m_Name: GridBorder6 (1)
+  m_Name: GridBorder7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4712,14 +4712,18 @@ MonoBehaviour:
   - {fileID: 276609761}
   - {fileID: 2145012737}
   - {fileID: 238072616}
+  - {fileID: 586188298}
+  - {fileID: 1631537840}
   mainGridTiles:
+  - {fileID: 114925809251614690, guid: 6cf2e7597d74ec7499f25a2f9e374247, type: 2}
+  - {fileID: 114607380474900458, guid: 031411c2d81e6b64fbb48985f1c72b56, type: 2}
   - {fileID: 114196218220199558, guid: 0ee5fac015599b441bd4b4660d8e3256, type: 2}
   - {fileID: 114362366839618322, guid: d48ee6debcef80446a1e64c8a61b0aab, type: 2}
   - {fileID: 114493656764284412, guid: dcfbdc9e4eb2bfe4e906b11b8343eb80, type: 2}
-  - {fileID: 114810956084897576, guid: 143d48d9cbea8df4aaeca453418086b5, type: 2}
   - {fileID: 114353847325914704, guid: 830a198af5b3868479a97f1d6aabe23b, type: 2}
-  - {fileID: 114764166735275074, guid: 0a46f8b88337f2545b7223e37e2c4aeb, type: 2}
+  - {fileID: 114810956084897576, guid: 143d48d9cbea8df4aaeca453418086b5, type: 2}
   - {fileID: 114410454949610572, guid: 6482def0e13d20e429e308bef3558d36, type: 2}
+  - {fileID: 114764166735275074, guid: 0a46f8b88337f2545b7223e37e2c4aeb, type: 2}
 --- !u!224 &1552860619
 RectTransform:
   m_ObjectHideFlags: 0
@@ -4926,7 +4930,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 1780707853466960, guid: 566cf354502c6594da5352204a1ecb5d, type: 2}
       propertyPath: m_Name
-      value: MainGridSpace[6] (1)
+      value: MainGridSpace[8]
       objectReference: {fileID: 0}
     - target: {fileID: 114071776316616298, guid: 566cf354502c6594da5352204a1ecb5d,
         type: 2}
