@@ -173,7 +173,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: '  Walking aid'
+  m_Text: '  Walking Aid'
 --- !u!222 &222554997079144790
 CanvasRenderer:
   m_ObjectHideFlags: 1

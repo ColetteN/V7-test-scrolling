@@ -138,7 +138,7 @@ void Update(){
 //Play TTS when categories on the home page are tapped
 //Wait before TTS begins create a short delay
 	private IEnumerator WaitAndSay() {
-		yield return new WaitForSeconds(0.5f);
+		yield return new WaitForSeconds(0.1f);
 		ttsSpeech.GetComponent<TTSmanager>()._inputText = sceneName;
 		ttsSpeech.GetComponent<TTSmanager>().PlaySpeech();
 		Debug.Log(sceneName);
@@ -146,6 +146,7 @@ void Update(){
 
 	public void QuitGame () {
  		Application.Quit ();
+		 ttsSpeech.GetComponent<TTSmanager>()._inputText = "Closing App";
 		//Just to make sure its working
 		Debug.Log("Game is exiting");
  	}
